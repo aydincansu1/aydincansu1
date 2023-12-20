@@ -1,5 +1,5 @@
 <h1 align="center" >Hi👋, I'm Cansu </h1>
-<p align="center" > Fullstack yazılım geliştiricisi olarak kendimi geliştirmeye devam ediyorum. Son 1 yıldır ve kariyer değişikliği hedefliyorum. 3 yıllık Grafik Tasarım tecrübemi yazılım geliştirmeye olan merakımla birleştirerek firmanıza katkıda bulunabileceğime ve firmanızda yeni şeyler öğrenerek kendimi geliştirebileceğime inanıyorum.  </p>
+<p align="center" >  I have been improving myself as a fullstack software developer for the last 1 year and aiming for a career change. I believe that by combining my 3 years of Graphic Design experience with my curiosity in software development, I can contribute to your company and improve myself by learning new things in your company.   </p>
 
 ###
 
@@ -14,10 +14,13 @@
 <!-- ###
 <p align="left">Stats</p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=furkanevin" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=furkanevin" height="150" alt="stats graph"  /> 
+
 
 ### -->
-<p align="left">Tech Stack:</p>
+
+<br>
+<p align="left">Tech Stack :</p>
   
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="html5 logo"  />
@@ -35,16 +38,16 @@
 </div>
 
 ###
-<p align="left">Socials:</p>
+<p align="left">Socials :</p>
 <div align="center">
 <a href="https://linkedin.com/in/cansu-aydin" target="blank">
-<img src=https://img.shields.io/badge/linkedin-%23000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />         
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />      
 </a>
 <a href="https://www.instagram.com/cansu.aydin.1" target="blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <a href="https://twitter.com/in/aydincansu1" target="blank">
-<img src=https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-%231E77B5.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div>
 
