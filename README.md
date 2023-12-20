@@ -1,7 +1,5 @@
 <h1 align="center" >Hi👋, I'm Cansu </h1>
-<p align="center" >  I have been improving myself as a fullstack software developer for the last 1 year and aiming for a career change. I believe that by combining my 3 years of Graphic Design experience with my curiosity in software development, I can contribute to your company and improve myself by learning new things in your company.   </p>
 
-###
 
 <!-- <div align="center">
   <img height="200" src="https://media3.giphy.com/media/gk7BbBTgH9fcQ/giphy.gif?cid=790b76116f0bfe111ca88653ff68a56b95ff43756f89c341&rid=giphy.gif&ct=g"  />
