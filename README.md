@@ -1,4 +1,4 @@
-<h1 align="center" >Hi👋, I'm Cansu </h1>
+<h1 align="center" >Merhaba 👋 Ben Cansu </h1>
 
 
 <!-- <div align="center">
@@ -7,7 +7,10 @@
 
 ###
 
-<p align="left"> :grey_question: I am a front-end React developer that skilled in developing interactive user interfaces.<br>:lock:I have a passion for creating user-friendly and functional web applications that look great. I believe in writing clean and structured code to         ensure maximum compatibility and performance. <br>:zap:I am highly motivated, organized, and able to work well both independently and as part of a team. <br>:hourglass_flowing_sand: I am committed to staying up to date with the latest technologies and trends in web development to ensure the best outcomes.</p>
+<p align="left"> Etkileşimli kullanıcı arayüzleri geliştirme konusunda yetenekli bir ön uç React geliştiricisiyim. JavaScript ve TypeScript'i kullanarak çeşitli projelerde çalışıyor ve bu alanda deneyim kazanıyorum.
+Sürekli olarak yeni teknolojilere ve gelişmelere ilgi duyuyor ve endüstrinin en son trendlerini takip ediyorum. Projelerimde bu yenilikleri kullanmaya odaklanarak, güncel ve etkili çözümler sunmayı hedefliyorum.
+Takım çalışmasına büyük bir önem veriyorum ve iletişim becerilerim sayesinde ekip üyeleriyle verimli bir şekilde işbirliği yapabiliyorum. Birçok proje deneyimi sayesinde, öğrenme fırsatları ve kişisel büyüme deneyimleri elde ettim.
+Yeni projelerde yer alarak sektöre katkı sağlamayı dört gözle bekliyorum ve bu yolda kendimi sürekli geliştirmeye devam edeceğim.</p>
 
 <!-- ###
 <p align="left">Stats</p>
