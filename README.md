@@ -21,7 +21,7 @@ Yeni projelerde yer alarak sektöre katkı sağlamayı dört gözle bekliyorum v
 ### -->
 
 <br>
-<p align="left">Tech Stack :</p>
+<h2 align="center">Tech Stack</h2>
   
 
 <div align="center">
@@ -43,14 +43,12 @@ Yeni projelerde yer alarak sektöre katkı sağlamayı dört gözle bekliyorum v
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg"  height="30" width="30"  />
 
 </div>
-<p align="left">Socials :</p>
+<h2 align="center">Socials</h2>
 <div align="center">
 <a href="https://linkedin.com/in/cansu-aydin" target="blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />      
 </a>
-<a href="https://www.instagram.com/cansu.aydin.1" target="blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+ 
 <a href="https://twitter.com/in/aydincansu1" target="blank">
 <img src=https://img.shields.io/badge/twitter-%231E77B5.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
