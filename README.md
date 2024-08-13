@@ -7,10 +7,9 @@
 
 ###
 
-<p align="left"> Etkileşimli kullanıcı arayüzleri geliştirme konusunda yetenekli bir ön uç React geliştiricisiyim. JavaScript ve TypeScript'i kullanarak çeşitli projelerde çalışıyor ve bu alanda deneyim kazanıyorum.
-Sürekli olarak yeni teknolojilere ve gelişmelere ilgi duyuyor ve endüstrinin en son trendlerini takip ediyorum. Projelerimde bu yenilikleri kullanmaya odaklanarak, güncel ve etkili çözümler sunmayı hedefliyorum.
-Takım çalışmasına büyük bir önem veriyorum ve iletişim becerilerim sayesinde ekip üyeleriyle verimli bir şekilde işbirliği yapabiliyorum. Birçok proje deneyimi sayesinde, öğrenme fırsatları ve kişisel büyüme deneyimleri elde ettim.
-Yeni projelerde yer alarak sektöre katkı sağlamayı dört gözle bekliyorum ve bu yolda kendimi sürekli geliştirmeye devam edeceğim.</p>
+<p align="left"> 1997 doğumluyum. 2015 yılında liseden mezun olduktan sonra Atatürk Üniversitesi'nde Halkla İlişkiler ve Tanıtım bölümünü kazandım. Grafik tasarım ve Web Tasarım alanlarına olan ilgimi bu süreçte fark ettim. Derslerde edindiğim temel bilgilerin üzerine aldığım kurslarla birlikte Photoshop, Illustrator ve Figma programlarını detaylı bir şekilde öğrendim.
+
+2019 yılında mezun olduktan sonra üç yıl Grafik Tasarımcı olarak çalıştım. 2023 yılında yazılım sektörüne geçiş yaparak React, Front End ve React Native eğitimleri aldım. Şu anda mobil ve web alanında kendimi geliştirmeye devam ediyorum. Grafik Tasarım ve Yazılım alanlarındaki yeteneklerimi ve ilgimi birleştirerek, bu alanlarda yenilikçi projelere katkıda bulunmaya devam ediyorum.</p>
 
 <!-- ###
 <p align="left">Stats</p>
