@@ -7,9 +7,8 @@
 
 ###
 
-<p align="left"> 1997 doğumluyum. 2015 yılında liseden mezun olduktan sonra Atatürk Üniversitesi'nde Halkla İlişkiler ve Tanıtım bölümünü kazandım. Grafik tasarım ve Web Tasarım alanlarına olan ilgimi bu süreçte fark ettim. Derslerde edindiğim temel bilgilerin üzerine aldığım kurslarla birlikte Photoshop, Illustrator ve Figma programlarını detaylı bir şekilde öğrendim.
-
-2019 yılında mezun olduktan sonra üç yıl Grafik Tasarımcı olarak çalıştım. 2023 yılında yazılım sektörüne geçiş yaparak React, Front End ve React Native eğitimleri aldım. Şu anda mobil ve web alanında kendimi geliştirmeye devam ediyorum. Grafik Tasarım ve Yazılım alanlarındaki yeteneklerimi ve ilgimi birleştirerek, bu alanlarda yenilikçi projelere katkıda bulunmaya devam ediyorum.</p>
+<p align="left"> Frontend & Mobile Developer.
+2019-2022 yılları arasında tasarım odaklı projelerde yer aldıktan sonra 2023’te yazılım geliştirme alanına geçiş yaptım. Flutter, React.js ve React Native ile cross-platform uygulamalar geliştiriyorum. Pixel-perfect ve kullanıcı deneyimi odaklı arayüzler kodlamaya önem veriyorum. Figma, Photoshop ve Illustrator gibi araçlardaki deneyimimi modern web ve mobil teknolojilerle birleştirerek estetik ve işlevsel dijital ürünler geliştiriyorum.</p>
 
 <!-- ###
 <p align="left">Stats</p>
